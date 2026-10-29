@@ -12,8 +12,11 @@
             //can not answer
             #endregion
             #region 3
-            Class1.printwelcomemessage();
+            //Class1.printwelcomemessage();
 
+            #endregion
+            #region question4
+            Class1. printbooktitle("clean code");
             #endregion
         }
 

@@ -6,9 +6,9 @@ namespace assigment6
 {
     internal class Class1
     {
-        public static void printwelcomemessage()
+       public static void printbooktitle(string title)
         {
-            Console.WriteLine("Welcome to the library");
+            Console.WriteLine(title);
         }
     }
      
