@@ -41,7 +41,11 @@
             // canont answer
             #endregion
             #region 9
-           // cannot answer
+            // cannot answer
+            #endregion
+            #region question10
+            //Class1.PrintBookInfo("Programming");
+            //Class1.PrintBookInfo("Math", 100);
             #endregion
         }
 

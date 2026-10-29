@@ -6,9 +6,10 @@ namespace assigment6
 {
     internal class Class1
     {
-        public static void addbouncepagesbyref(ref int PAGES)
+        public static void PrintBookInfo(string title, int pages = 300)
         {
-            PAGES += 50;
+            Console.WriteLine(title);
+            Console.WriteLine(pages);
         }
     }
      
