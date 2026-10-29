@@ -6,9 +6,9 @@ namespace assigment6
 {
     internal class Class1
     {
-       public static void printbooktitle(string title)
+        public static void addbounspages(int pages)
         {
-            Console.WriteLine(title);
+            pages += 50;
         }
     }
      
