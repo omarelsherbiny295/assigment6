@@ -11,7 +11,10 @@
             #region question2
             //can not answer
             #endregion
+            #region 3
             Class1.printwelcomemessage();
+
+            #endregion
         }
 
     }
