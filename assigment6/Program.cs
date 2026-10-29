@@ -23,6 +23,12 @@
             //int pages = 400;
             //Class1.addbounspages(pages);
             //Console.WriteLine(pages);
+
+            #endregion
+            #region question6
+            //double[] prices = { 25.5, 40.0 };
+            //Class1.applydiscount(prices);
+            //Console.WriteLine(prices[0]);
             
             #endregion
         }
