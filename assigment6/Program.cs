@@ -29,6 +29,12 @@
             //double[] prices = { 25.5, 40.0 };
             //Class1.applydiscount(prices);
             //Console.WriteLine(prices[0]);
+
+            #endregion
+            #region question7
+            //int PAGES = 400;
+            //Class1.addbouncepagesbyref(ref PAGES);
+            //Console.WriteLine(PAGES);
             
             #endregion
         }

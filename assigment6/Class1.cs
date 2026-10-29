@@ -6,9 +6,9 @@ namespace assigment6
 {
     internal class Class1
     {
-        public static void applydiscount(double[] prices)
+        public static void addbouncepagesbyref(ref int PAGES)
         {
-            prices[0] -= 5;
+            PAGES += 50;
         }
     }
      
